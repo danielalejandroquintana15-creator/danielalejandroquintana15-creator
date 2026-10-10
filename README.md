@@ -4,16 +4,16 @@
 
 <h1>Hi, I am Daniel De la Quintana</h1>
 
-<h3>Systems Engineering Student | Computer Engineering Student</h3>
+<h3>Systems Engineering Student | Software Developer</h3>
+
 <img src="./assets/nanobots.gif" width="600" alt="Nanobot animation">
 
 <p>
   <a href="https://www.linkedin.com/in/daniel-alejandro-de-la-quintana-amelunge-32090b289">
-    LinkedIn
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin">
   </a>
-  &nbsp;•&nbsp;
   <a href="https://github.com/danielalejandroquintana15-creator">
-    GitHub
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
   </a>
 </p>
 
