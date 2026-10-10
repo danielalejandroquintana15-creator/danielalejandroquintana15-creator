@@ -5,6 +5,7 @@
 <h1>Hi, I am Daniel De la Quintana</h1>
 
 <h3>Systems Engineering Student | Computer Engineering Student</h3>
+<img src="./assets/nanobots.gif" width="600" alt="Nanobot animation">
 
 <p>
   <a href="https://www.linkedin.com/in/daniel-alejandro-de-la-quintana-amelunge-32090b289">
