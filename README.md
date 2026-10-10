@@ -49,38 +49,20 @@ Me interesa aprender nuevas tecnologías, desarrollar proyectos y mejorar contin
 
 ## 📌 Important Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-### 🦷 Sistema de Inventario para Clínica Odontológica
-
-<p>
-Sistema web para la gestión y control de medicamentos e insumos de una clínica odontológica.
-</p>
-
-<p>
-<strong>Stack:</strong> C# · ASP.NET MVC · SQL Server · HTML · CSS
-</p>
-
-    </td>
-
-    <td width="50%" valign="top">
-
-### 💻 Proyecto de Desarrollo Web
-
-<p>
-Aplicación web orientada a la gestión de información y usuarios mediante una arquitectura cliente-servidor.
-</p>
-
-<p>
-<strong>Stack:</strong> React · PostgreSQL · HTML · CSS · JavaScript
-</p>
-
-    </td>
-  </tr>
-</table>
-
+<ul>
+  <li>
+    🦷 <a href="URL_DEL_REPOSITORIO">Sistema de Control Web de Inventario para Clínica Odontológica</a>
+  </li>
+  <li>
+    💻 <a href="URL_DEL_REPOSITORIO">Sistema de Gestión de Usuarios y Accesos</a>
+  </li>
+  <li>
+    📊 <a href="URL_DEL_REPOSITORIO">Proyecto de Análisis de Datos</a>
+  </li>
+  <li>
+    🌐 <a href="URL_DEL_REPOSITORIO">Aplicación Web de Gestión</a>
+  </li>
+</ul>
 ---
 
 ## 📫 Contact
